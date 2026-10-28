@@ -1,0 +1,14 @@
+# Patientendaten niemals einchecken
+beispiele/
+*.pdf
+*.PDF
+*.ldt
+*.LDT
+export_protokoll.csv
+# Build / Python
+.venv/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc

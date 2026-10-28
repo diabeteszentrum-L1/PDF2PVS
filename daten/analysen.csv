@@ -1,0 +1,84 @@
+Kuerzel;Bezeichnung;Einheit;Aliase;Bemerkung
+THRO;Thrombozyten;10^3/µl;Thrombozyten|Thrombos|PLT;aus x.isynet
+LEUC;Leukozyten;10^3/µl;Leukozyten|Leukos|WBC;aus x.isynet
+ERY;Erythrozyten;10^6/µl;Erythrozyten|Erys|RBC;aus x.isynet
+HB;Hämoglobin;g/dl;Hämoglobin|Haemoglobin|Hb;aus x.isynet
+HK;Hämatokrit;%;Hämatokrit|Haematokrit|Hkt;aus x.isynet
+MCV;MCV;fl;MCV;aus x.isynet
+MCH;MCH;pg;MCH|MCH=HbE|MCH (HbE)|HbE;aus x.isynet
+MCHC;MCHC;g/dl;MCHC;aus x.isynet
+CREA;Creatinin im Serum;mg/dl;Kreatinin|Creatinin|Krea|Kreatinin i.S.|Creatinin i.S.|Kreatinin im Serum;aus x.isynet
+CKD-EPI;GFR berechnet nach CKD-EPI;ml/min/1.73m²;eGFR (CKD-EPI Formel)|eGFR (CKD-EPI)|GFR (CKD-EPI)|eGFR CKD-EPI|GFR CKD-EPI|CKD-EPI|eGFR;aus x.isynet
+HARN;Harnsäure;mg/dl;Harnsäure|Harnsaeure|Urat;aus x.isynet
+K;Kalium;mmol/l;Kalium;aus x.isynet
+Na;Natrium;mmol/l;Natrium|NA;aus x.isynet (Ausdruck LG zeigt NA)
+SGOT;GOT;U/l;GOT|GOT (ASAT)|ASAT|AST|SGOT;aus x.isynet
+SGPT;GPT;U/l;GPT|GPT (ALAT)|ALAT|ALT|SGPT;aus x.isynet
+GGT;gammaGT;U/l;GGT|Gamma-GT|Gamma GT|gammaGT|y-GT|γ-GT;aus x.isynet
+CHOL;Cholesterin;mg/dl;Cholesterin|Gesamtcholesterin|Cholesterin gesamt|Cholesterin, gesamt;aus x.isynet
+HDL;HDL-Cholesterin;mg/dl;HDL-Cholesterin|HDL;aus x.isynet
+LDL;LDL-Cholesterin;mg/dl;LDL-Cholesterin|LDL-Cholesterin, direkt|LDL-Cholesterin direkt|LDL;aus x.isynet
+NHDL;non-HDL-Cholesterin;mg/dl;non-HDL-Cholesterin|Non-HDL-Cholesterin|non-HDL;aus x.isynet
+TRIG;Triglyceride;mg/dl;Triglyceride|Triglyzeride|TG;aus x.isynet
+TSH;TSH basal;mU/l;TSH basal|TSH, basal|TSH basal im Serum|TSHbasal|TSH|TSHB;aus x.isynet (Ausdruck LG zeigt TSHB)
+Urobili;Urobilinogen;;Urobilinogen;aus x.isynet
+ERYU;ERyU;;Erythrozyten@urin|Blut im Urin|Blut@urin;aus x.isynet
+UBili;Bilirubin;;Bilirubin@urin|Bilirubin im Urin;aus x.isynet
+KETU;Keton;;Keton|Ketone|Ketonkörper;aus x.isynet
+GLUU;Glucose im Urin;;Glucose im Urin|Glukose im Urin|Glucose@urin|Glukose@urin;aus x.isynet
+EIWU;Eiweiß;;Eiweiß im Urin|Eiweiß@urin|Protein@urin;aus x.isynet
+PHW;pH-Wert;;pH-Wert|pH@urin;aus x.isynet
+NITU;Nitrit im Urin;;Nitrit;aus x.isynet
+LEUU;Leukozyten;;Leukozyten@urin|Leukozyten im Urin;aus x.isynet
+SG;Spezifisches Gewicht;;Spezifisches Gewicht|spez. Gewicht;aus x.isynet
+CREAU;CREAU;mg/dl;Kreatinin im Urin|Kreatinin@urin|Creatinin@urin;aus x.isynet
+ALBU;ALBU;mg/l;Albumin im Urin|Albumin@urin;aus x.isynet
+P/C;P/C;;P/C|Protein/Kreatinin;aus x.isynet
+Albukrea;Albumin-Kreatinin-Quotient;mg/g;Albumin-Kreatinin-Quotient|Albumin/Kreatinin|Albumin/Kreatinin-Quotient|ACR;aus x.isynet
+BSG1;Blutsenkung 1. Stunde;mm;BSG|BSG 1. Stunde|BSG 1.Std.|BKS|Blutsenkung 1. Stunde|Blutsenkung;aus LG-Ausdruck
+BILI;Bilirubin, gesamt;mg/dl;Bilirubin|Bilirubin, ges.|Bilirubin ges.|Bilirubin, gesamt|Bilirubin gesamt|Gesamtbilirubin;aus LG-Ausdruck
+AP;Alkalische Phosphatase;U/l;AP|Alk. Phosphatase|Alk. Phophatase|Alkalische Phosphatase;aus LG-Ausdruck
+GLUN;Glukose;mg/dl;Glukose im NaF-Blut|Glucose|Glukose|Glucose i. S.|Glucose i.S.|Glukose i.S.|Nüchternglukose;aus LG-Ausdruck
+HBA1;Hämoglobin A1c (%);%;HbA1c|HbA1|HBA1|Hämoglobin A1c;aus LG-Ausdruck – Auswahl nach Einheit %
+HBA1C;Hämoglobin A1c (mmol/mol);mmol/mol;HbA1c-IFCC|HbA1c (IFCC)|HbA1c IFCC|HbA1c|Hämoglobin A1c;aus LG-Ausdruck – Auswahl nach Einheit mmol/mol
+CA;Calcium;mmol/l;Calcium|Kalzium;Vorschlag – in x.isynet prüfen
+HST;Harnstoff;mg/dl;Harnstoff|Urea;Vorschlag – in x.isynet prüfen
+HSTN;Harnstoff-N;mg/dl;Harnstoff N|Harnstoff-N|Harnstoff-Stickstoff|BUN;Vorschlag – in x.isynet prüfen
+BILD;Bilirubin, direkt;mg/dl;Bilirubin, direkt|Bilirubin direkt;Vorschlag – in x.isynet prüfen
+BILIND;Bilirubin, indirekt;mg/dl;Bilirubin, indirekt|Bilirubin indirekt;Vorschlag – in x.isynet prüfen
+LDH;LDH;U/l;LDH|Laktatdehydrogenase;Vorschlag – in x.isynet prüfen
+CK;CK;U/l;CK|Creatinkinase|Kreatinkinase;Vorschlag – in x.isynet prüfen
+FERR;Ferritin;µg/l;Ferritin;Vorschlag – in x.isynet prüfen
+FE;Eisen;µg/dl;Eisen;Vorschlag – in x.isynet prüfen
+GE;Gesamteiweiß;g/dl;Gesamteiweiß|Gesamteiweiss|Gesamtprotein;Vorschlag – in x.isynet prüfen
+CRP;CRP;mg/l;CRP|C-reaktives Protein;Vorschlag – Einheit mg/l vs. mg/dl beachten
+RF;Rheumafaktor;IU/ml;RF|Rheumafaktor;Vorschlag – in x.isynet prüfen
+FT4;fT4;ng/dl;FT4|fT4|freies T4;Vorschlag – in x.isynet prüfen
+FT3;fT3;pg/ml;FT3|fT3|freies T3;Vorschlag – in x.isynet prüfen
+QUICK;Quick;%;Quick|TPZ;Vorschlag – in x.isynet prüfen
+INR;INR;;INR;Vorschlag – in x.isynet prüfen
+PTT;PTT;s;PTT|aPTT;Vorschlag – in x.isynet prüfen
+NEUT;Neutrophile;%;Neutrophile|Neutrophile Granulozyten;Vorschlag – in x.isynet prüfen
+LYMPH;Lymphozyten;%;Lymphozyten;Vorschlag – in x.isynet prüfen
+MONO;Monozyten;%;Monozyten;Vorschlag – in x.isynet prüfen
+EOS;Eosinophile;%;Eosinophile;Vorschlag – in x.isynet prüfen
+BASO;Basophile;%;Basophile;Vorschlag – in x.isynet prüfen
+IG;Unreife Granulozyten;%;IG|unreife Granulozyten;Vorschlag – in x.isynet prüfen
+RDW;Ery-Verteilungsbreite;%;Ery-Verteilbreite|Ery-Verteilungsbreite|RDW;Vorschlag – in x.isynet prüfen
+MBG;Mittlere Blutglukose;mg/dl;mitt.Bz-Konzentrat.|mitt. BZ-Konzentration|mittlere Blutglukose;Vorschlag – in x.isynet prüfen
+GFRMDRD;GFR (MDRD);ml/min;GFR (MDRD-Formel)|GFR (MDRD)|GFR MDRD;Vorschlag – in x.isynet prüfen
+MMA;Methylmalonsäure;µg/l;Methylmalonsäure i.S.|Methylmalonsäure;Vorschlag – in x.isynet prüfen
+HOLOTC;Holotranscobalamin;pmol/l;Holotranscobalamin|Holo-TC|aktives B12;Vorschlag – in x.isynet prüfen
+B12;Vitamin B12;ng/l;Vitamin B12;Vorschlag – in x.isynet prüfen
+FOL;Folsäure;µg/l;Folsäure|Folat;Vorschlag – in x.isynet prüfen
+HBSAG;HBs-Antigen;;HBs-Antigen|HBsAg;Vorschlag – in x.isynet prüfen
+AHBC;Anti-HBc;;Anti-HBc (IgG+IgM)|Anti-HBc;Vorschlag – in x.isynet prüfen
+AHBS;Anti-HBs;IU/l;Anti-HBs;Vorschlag – in x.isynet prüfen
+AHCV;Anti-HCV;;Anti-HCV (CMIA)|Anti-HCV;Vorschlag – in x.isynet prüfen
+TPIA;TPIA-Test;COI;TPIA-Test|TPIA|TPHA;Vorschlag – in x.isynet prüfen
+HIV;HIV-AK 1/2, p24-Ag;;HIV-AK 1/2, p24-Ag|HIV-AK|HIV-Suchtest;Vorschlag – in x.isynet prüfen
+ANA;ANA (Zellkerne);Titer;Zellkerne (ANA)|ANA|Fluoreszenzmuster;Vorschlag – in x.isynet prüfen
+CANCA;c-ANCA;Titer;c-ANCA (cytoplasmat.)|c-ANCA;Vorschlag – in x.isynet prüfen
+PANCA;p-ANCA;Titer;p-ANCA (perinucleär)|p-ANCA;Vorschlag – in x.isynet prüfen
+XANCA;X-ANCA;Titer;X-ANCA;Vorschlag – in x.isynet prüfen
+-;(ignorieren);;Hämolyse Index|Ikterus Index|Lipämie Index|Grosses Blutbild|Großes Blutbild|kleines BB + Throm.|Kleines Blutbild|Immunologie|GFR-Kommentar|Referenzwerte LDL|Referenzwerte HbA1c|validierender Arzt;Zeilen, die nie übernommen werden

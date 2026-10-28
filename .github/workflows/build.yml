@@ -1,0 +1,13 @@
+name: Windows-EXE bauen
+on: [workflow_dispatch, push]
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt pyinstaller
+      - run: pyinstaller --noconfirm --clean --onefile --windowed --name PDF2PVS --icon daten\pdf2pvs.ico --add-data "daten;daten" --exclude-module pymupdf.layout --exclude-module onnxruntime PDF2PVS.py
+      - uses: actions/upload-artifact@v4
+        with: { name: PDF2PVS, path: dist/PDF2PVS.exe }
